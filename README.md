@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Daisy! 🌼</h1>
 
-- 💻 Software Engineer
-- 💛 Passionate about solving problems
-- 📚 Exploring new challenges in algorithms and data structures with [NeetCode](https://neetcode.io/)
-
----
-
 ### 💼 About Me
 
-- 🔍 Working as a Software Engineer at **Nubank**
-- 🎓 Bachelor's degree in **Computer Science**
+- 💻 Working as a Senior Software Engineer at **Nubank**
+- 🧠 Passionate about solving problems
+- 👩🏻‍🎓 Bachelor's degree in **Computer Science**
 - 🎓 Postgraduate degree in **System Development Technology**
+- 📚 Currently exploring new challenges in algorithms and data structures with [NeetCode](https://neetcode.io/)
 
 ---
 
